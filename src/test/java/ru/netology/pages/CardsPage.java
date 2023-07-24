@@ -1,4 +1,4 @@
-package ru.netology.test.pages;
+package ru.netology.pages;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.ElementsCollection;
